@@ -1,1 +1,2 @@
 this file.txt and it contains annotated tag
+version 1.1 is released
